@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development, 3D modeling, visual design, mobile app development, and machine learning.
 - 🌱 I’m currently learning data structures, programming, and APIs.
 - 💞️ I’m looking to collaborate on projects with meaningful contributions to society.
-- 📫 How to reach me: email: cfnnani@unc.edu
+- 📫 How to reach me: cfnnani@unc.edu
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Aside from programming-related tasks, I enjoy creating clothing designs, capturing photos, and creating video edits! 
 
